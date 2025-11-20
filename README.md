@@ -217,85 +217,90 @@ http://wortell.nl
 50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
 Deal ends: 20th December 2025
 
-
-
 ## Tools
 
-**Burp Bounty Pro** - Web vulnerability scanner that revolutionizes authenticated testing directly in Burp Suite. Designed for penetration testers, security teams, and bug hunters, Burp Bounty Pro automates security assessments significantly reducing your audit time while expanding overall coverage. \
-https://bountysecurity.ai
-40% off on annual plans \
-Deal ends: 2th December
-
 **Burp Bounty Go** - High-performance vulnerability scanner developed with Golang microservices. It brings modern offensive security to the next level by enabling high-speed, distributed scanning beyond Burp Suite's native capabilities. \
-https://bountysecurity.ai
+https://bountysecurity.ai  
 40% off on annual plans \
-Deal ends: 2th December
+Deal ends: 2nd December \
+
+**Burp Bounty Pro** - Web vulnerability scanner that revolutionizes authenticated testing directly in Burp Suite. Designed for penetration testers, security teams, and bug hunters, Burp Bounty Pro automates security assessments, significantly reducing your audit time while expanding overall coverage. \
+https://bountysecurity.ai  
+40% off on annual plans \
+Deal ends: 2nd December \
 
 **FullStro** - P A Multi-Channel Ecommerce Automation :see_no_evil: :new: \
-http://fullstro.com/black-friday-deals/ 
+http://fullstro.com/black-friday-deals/  
 70% off all plans \
-Deal valid: 16th November - 6rd December
+Deal valid: 16th November - 6th December \
+
+**HTTP Toolkit** - Open-source HTTP proxy, debugger & client, with instant one-click setup for Android, Docker, browsers, node.js & more \
+https://httptoolkit.com/?ref=wwwiesel  
+50% off forever on annual subscriptions, with code `BLACKFRIDAY25` \
+Deal ends: 3rd December \
 
 **PortDroid** - Port Scanner and Swiss Army Knife of Network Security Tools for Android \
 https://portdroid.net/black-friday-2025/  
 >50% off lifetime version with code: `CYBER_2025` \
-Deal ends: 4th December
+Deal ends: 4th December \
 
 **Proton Mail/VPN/Pass/Drive** - Encrypted Services \
-https://proton.me/black-friday \
-38% off Lumo AI
-50% off Mail, Drive or Proton Unlimited
-60% off Pass
-70% off VPN
+https://proton.me/black-friday  
+38% off Lumo AI \
+50% off Mail, Drive or Proton Unlimited \
+60% off Pass \
+70% off VPN \
 
-**SEOengine.ai** - SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. \
-https://seoengine.ai \
-35% OFF with code `BLACKFRIDAY` \
-Deal valid: Nov 17 - Dec 7
-
-**HTTP Toolkit** - Open-source HTTP proxy, debugger & client, with instant one-click setup for Android, Docker, browsers, node.js & more \
-[httptoolkit.com](https://httptoolkit.com/?ref=wwwiesel) \
-50% off forever on annual subscriptions, with code `BLACKFRIDAY25` \
-Deal ends: 3rd December
+**SEOengine.ai** - SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000–6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. \
+https://seoengine.ai  
+35% off with code `BLACKFRIDAY` \
+Deal valid: 17th November - 7th December \
 
 **SubtitleBee** - AI-powered subtitle generator, translator, and transcriber with support for 120+ languages \
-[SubtitleBee BFCM Deal](https://subtitlebee.com/#pricing) \
+https://subtitlebee.com/#pricing  
 20% off on monthly plans and up to 32% off on annual subscriptions, with code `BEE20` \
-Deal ends: 4th December
+Deal ends: 4th December \
 
 **WebsiteVoice** - A simple, but powerful text-to-speech solution to turn website content into speech \
-https://websitevoice.com/ 
+https://websitevoice.com/  
 20% off on all plans, with code `VOICE20` \
-Deal ends: 4th December
+Deal ends: 4th December \
+
 
 ## Services:
 
-**AirVPN** -  Save up to 74% when compared to one month plan price  \
-https://airvpn.org/forums/topic/77311-2025-black-friday-sale  \
+**AirVPN** - Save up to 74% when compared to one month plan price \
+https://airvpn.org/forums/topic/77311-2025-black-friday-sale  
 Use code `BLACKFRIDAY2025` \
-Deal valid: 14th November - 3rd December
-
-**Proton Mail/VPN/Pass/Drive** - Encrypted Services \
-[https://proton.me/mail/black-friday](https://proton.me/black-friday)
-Save up to 70%
-Deal valid: ?
-
-**NordVPN** \
-https://nordvpn.com/pricing  
-74%% off (+ 3 month extra)
-
-**Tuta Mail – Encrypted Email Service** \
-[https://tuta.com/blog/black-weeks-at-tuta  ](https://tuta.com/blog/black-weeks-at-tuta)
-62% off Legend Plan, applied automatically \
-Deal valid:  17th November – 1th Decembe
+Deal valid: 14th November – 3rd December \
 
 **CyberGhost VPN** \
 https://www.cyberghostvpn.com/buy/cyberghost-vpn-3  
-83% off VPN 2 Years Plan + 4 months free
+83% off VPN 2 Years Plan + 4 months free \
+
+**InMotion Hosting** – Web Hosting, VPS & Dedicated Servers \
+https://www.inmotionhosting.com/black-friday-web-hosting-deals  
+Up to 75% off Shared & WordPress hosting plans (discount auto-applied at checkout) \
+50% off Premier Care bundles for new Managed VPS & Dedicated Hosting customers (includes proactive security, backups, and priority support) \
+Deal valid: 18th November – 9th December 2025 \
 
 **IP VANISH VPN** \
 https://www.ipvanish.com/pricing/  
-up to 83% off
+Up to 83% off \
+
+**NordVPN** \
+https://nordvpn.com/pricing  
+74% off (+ 3 months extra) \
+
+**Proton Mail/VPN/Pass/Drive** - Encrypted Services \
+https://proton.me/black-friday  
+Save up to 70% \
+Deal valid: ? \
+
+**Tuta Mail – Encrypted Email Service** \
+https://tuta.com/blog/black-weeks-at-tuta  
+62% off Legend Plan, applied automatically \
+Deal valid: 17th November – 1st December \
 
 ## Misc: 
 
