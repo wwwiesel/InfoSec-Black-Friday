@@ -65,6 +65,11 @@ https://belkasoft.com/training-bundles
 https://academy.bluraven.io/blackfriday2025  
 35% off with code: `BFCM25` \
 
+**Career Hacking Quest** - Free career course and community for Cybersecurity engineers :new: \
+Bi-weekly live resume feedback sessions.
+https://www.careerhackingquest.com/
+FREE
+
 **CloudBreach** - Advanced Offensive Azure & AWS Security Trainings and Certifications \
 https://cloudbreach.io/blackfriday/  
 20% off with code: `BlackFriday25` \
@@ -74,6 +79,12 @@ Deal valid: 21nd November - 8th December \
 https://cyberwarfare.live/  
 Up to 90% off \
 Deal ends: 30th November \
+
+**DevSecOps Pro** - Build DevSecOps pipelines using GitHub Actions and AWS :new: \
+https://devsecopspro.com/bfcm-2025
+Includes lessons and labs \
+30% off annual subscription - no code required \
+Deal ends: 1st December
 
 **DNS for Developers** - Everything developers should know about DNS. \
 https://nslookup.io/dns-course/  
