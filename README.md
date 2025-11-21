@@ -79,6 +79,12 @@ Deal ends: 30th November \
 https://nslookup.io/dns-course/  
 66% off the course and certification \
 
+**Evilginx Mastery** – Adversary-in-the-middle (AiTM) phishing and Evilginx framework training \
+https://academy.breakdev.org/evilginx-mastery?coupon=BLACKWEEK  
+50% off Evilginx Mastery course with code `BLACKWEEK` (Black Week promo) \
+10% discount on new Evilginx Pro licenses during Black Week (see site for details) \
+Deal valid: Black Week 2025 \
+
 **Hack The Box – Pro Labs annual subscription** \
 https://www.hackthebox.com/blog/New-pro-labs-discount  
 25% off Pro Labs annual subscription with code: `novprolabsannual25off` \
@@ -176,6 +182,12 @@ https://vantagepoint.enciphers.com/
 https://training.whiteknightlabs.com/  
 Black Friday sale: 50% off all training and certification courses; lifetime access to purchased content, discount applied automatically at checkout \
 Source: https://www.linkedin.com/posts/white-knight-labs_this-black-friday-were-not-just-running-activity-7396887666300198912-tfn0 
+
+**ZeroPoint Security** – Red teaming & offensive security training \
+https://www.zeropointsecurity.co.uk/courses  
+30% off all courses during the Black Friday sale; discount is automatically applied at checkout (no coupon required) \
+Disconnect from VPNs before purchase or the discount may not apply; does not stack with PPP \
+Deal valid until 1st December 2025 \
 
 ## Exams
 
