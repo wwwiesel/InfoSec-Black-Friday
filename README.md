@@ -43,6 +43,10 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## Online Courses & Training
 
+**TheXero Training Academy** - Save 65% of our flagship Wireless Mastery course and mentorship program \
+https://training.thexero.co.uk/p/2025-black-friday-sale \
+65% discount automatically applied at checkout \
+Offer ends: 2nd December 2025
 
 **8kSec Academy** - Mobile Application Security and Offensive iOS/Android Security Internals On-Demand Trainings  \
 https://academy.8ksec.io/  
