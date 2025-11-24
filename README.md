@@ -284,6 +284,10 @@ http://wortell.nl \
 50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
 Deal ends: 20th December 2025
 
+**Nuelink** - Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. \
+https://nuelink.com \
+**30% OFF** monthly & Up to **65% OFF** yearly. `BF2025` is auto-applied \
+Deal ends: 28th November 2025
 
 ## Data feeds
 
