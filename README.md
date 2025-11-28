@@ -409,6 +409,12 @@ Deal ends: 3rd December
 Requires BREAKDEV RED red team community membership. Apply [here](https://red.breakdev.org/join) \
 Deal ends: 1st December
 
+**Chronoid** - AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. \
+[evilginx.com](https://www.chronoid.app/?utm_source=wwwiesel) \
+50% OFF Lifetime Version **BLACKFRIDAY** \
+Deal ends: 4th December 
+
+
 ## Services:
 
 **DarkWebSonar** -  Save 30% on Basic and Pro plans (monthly & Yearly)  \
