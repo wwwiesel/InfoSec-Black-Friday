@@ -195,6 +195,12 @@ Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-ci
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
 92% off (US$79 instead of US$1,000) applied automatically 
 
+**PentesterLab** - Master Advanced Web Hacking and In-Depth Security Code Review! \
+https://pentesterlab.com/pro  \
+Get full access for $146.52 instead of $199.99 (or $239.88 if you pay monthly) \
+Students can get 3 months of PentesterLab PRO for $25.99 instead of $34.99 (or $59.97 at the usual monthly price). You can also buy this multiple times (6, 9, or 12 months). \
+Deal ends: 2nd December 23:59:59 (UTC) \
+
 **Pluralsight** – Online Tech Learning Platform \
 https://www.pluralsight.com/  \
 `comeback60` 60% off \
