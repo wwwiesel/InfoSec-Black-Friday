@@ -101,10 +101,20 @@ https://opsdisk.gumroad.com/l/cphlab/bf2025
 50% off ($14.99 USD) + free handbook with code: `bf2025` \
 Deal valid from 27 November 2025, 00:00 UTC until 6 December 2025, 00:00 UTC 
 
-**CyberWarFare Labs** \
-https://cyberwarfare.live/  
-Up to 90% off \
-Deal ends: 30th November 
+CyberWarFare Labs - Range of cyber security courses \
+https://cyberwarfare.live/black_friday \
+(1) Up to 90% off on all individual courses \
+https://cyberwarfare.live/#platforms \
+(2) Up to 85% off on the bundles \
+https://cyberwarfare.live/black_friday \
+Up to 70% off on the CWL Premium Membership (Lifetime access) \
+https://cyberwarfare.live/premium-membership \
+All deals applied automatically at checkout \
+(3) $1 for a Yearly Plan of Infinity Platform, BLACKFRIDAY25 \
+https://infinity.cyberwarfare.live/ \
+NOTE : Infinity Comes with AI Red Team, Cloud Security, DevOps/K8s & APT Labs / Challenges
+
+Deal ends: 30th November
 
 **DevSecOps Pro** - Build DevSecOps pipelines using GitHub Actions and AWS :new: \
 https://devsecopspro.com/bfcm-2025
