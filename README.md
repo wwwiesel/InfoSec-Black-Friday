@@ -161,6 +161,11 @@ https://learn.hexordia.com/  \
 30% off all courses with code: `BF35` \
 Deal ends: 2nd December 
 
+**Infosec Pat Academy** \
+https://ispacademy.teachable.com/l/products?sortKey=name&sortDirection=asc&page=1  \
+30% off on all courses with code: `ISPBLACKFRIDAYSALE` \
+Deal ends: 28th November
+
 **Invictus Incident Response Training** \
 https://academy.invictus-ir.com  
 20% off on all courses with code: BLACKFRIDAY25 \
@@ -286,6 +291,11 @@ In-repository attack and defence wargame to learn appsec/devsecops/secure code/r
 Deal valid: 20th November - 5th December
 
 ## Books
+
+**No Starch Press**
+https://nostarch.com/  \
+42% off everything with code: BLACKFRIDAY25
+Deal ends on 2nd December 23:59 (PT)
 
 **The CloudSec Engineer** - A practical guide on how to enter and thrive in the Cloud Security industry. \
 https://engineer.cloudsecbooks.com/ \
