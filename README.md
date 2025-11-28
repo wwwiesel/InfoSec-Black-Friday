@@ -455,6 +455,11 @@ https://www.securityenginerd.com/black-friday.html
 Security EngiNerd is providing limited-time Black Friday discounts, including 40% off penetration testing, 50% off subcontracting support, and 60% off dark web exposure analysis. All services are handled by certified security specialists. \
 Deal Valid - From 20 November to 5 December 2025
 
+**Labs64 NetLicensing Cyber Weeks 2025** \
+https://netlicensing.io/blog/2025/11/25/labs64-netlicensing-cyber-weeks-2025/ \
+Save up to **50%** on any paid plan, get an **extended 60-day trial**, and unlock optional **onboarding**, integration, and migration support when you sign up with code `CYBER2025` \
+Deal valid: *Nov 28 – Dec 8, 2025*.
+
 ## Misc: 
 
 **Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
