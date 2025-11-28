@@ -1,4 +1,4 @@
-
+s
 # InfoSec Black Friday Deals ~ "In Honor of 0x90n" 2025 Edition
 
 EDIT: 
@@ -362,6 +362,11 @@ https://proton.me/black-friday \
 [httptoolkit.com](https://httptoolkit.com/?ref=wwwiesel) \
 50% off forever on annual subscriptions, with code `BLACKFRIDAY25` \
 Deal ends: 3rd December
+
+**Scarlet Shark** - A digital intelligence platform that provides security analysts with data and tools to enhance investigations and threat hunting. \
+https://scarletshark.com \
+100% of all subscriptions for 4 months. Use the coupon code `CyberMonday2025` \
+Deal ends: December 12th, 2025
 
 **SEOengine.ai** - SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. \
 https://seoengine.ai \
